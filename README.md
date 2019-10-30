@@ -25,3 +25,10 @@ In the next steps you can see test-driven implementation of `useBalance` hook, w
 - tag `split` - unfortunately when we were preparing we used hooks in the same test file, so we decided to split it for clarity
 
 Comments and PRs welcome!
+
+## Tools
+
+1. [react-testing-library](https://github.com/testing-library/react-testing-library) - testing framework
+1. [jest-dom](https://github.com/testing-library/jest-dom) - DOM assertions extensions for Jest
+1. [user-event](https://github.com/testing-library/user-event) - helpers for firing user events
+1. [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - hooks testing library
