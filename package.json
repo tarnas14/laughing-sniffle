@@ -8,6 +8,8 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "formik": "^1.5.7",
+    "lodash-es": "4.17.15",
+    "lodash.template": "4.5.0",
     "morgan": "^1.9.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
